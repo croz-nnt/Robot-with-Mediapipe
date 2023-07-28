@@ -1,0 +1,8 @@
+absl-py==1.4.0
+dataclasses==0.8
+mediapipe==0.8.2
+numpy==1.19.3
+opencv-python==4.5.4.58
+protobuf==3.19.6
+pyserial==3.5
+six==1.16.0
